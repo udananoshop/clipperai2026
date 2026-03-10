@@ -1,0 +1,154 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id           Int       @id @default(autoincrement())
+  username     String    @unique
+  password     String
+  role         String    @default("viewer") // owner, admin, editor, viewer
+  permissions  String    @default("{}")      // JSON string for permissions
+  createdAt    DateTime  @default(now())
+  videos       Video[]
+}
+
+model Video {
+  id             Int      @id @default(autoincrement())
+  title          String
+  filename       String
+  path           String?
+  platform       String   @default("youtube") // youtube, tiktok, instagram, facebook
+  originalName   String?
+  size           Int?
+  duration       Float?
+  userId         Int
+  user           User     @relation(fields: [userId], references: [id])
+  createdAt      DateTime @default(now())
+  viralScore     Int?
+  predictedViews String?
+  status         String   @default("completed")
+  thumbnailUrl   String?  // Relative path like "output/tiktok/clip_123.jpg"
+
+  clips Clip[]
+}
+
+model Clip {
+  id          String   @id @default(uuid())
+  title       String
+  videoId     Int
+  video       Video    @relation(fields: [videoId], references: [id], onDelete: Cascade)
+  platform    String   @default("youtube") // youtube, tiktok, instagram, facebook
+  viralScore  Int?
+  confidence  Float?
+  filePath    String?  // Relative path like "output/clip_123.mp4"
+  thumbnailUrl String? // Relative path like "output/clip_123.jpg"
+  createdAt   DateTime @default(now())
+}
+
+// ==================== ENTERPRISE V2.0 MODELS ====================
+
+model BrandSettings {
+  id              Int      @id @default(autoincrement())
+  userId          Int      @unique
+  logoUrl         String?
+  logoPosition    String   @default("bottom-right")
+  logoOpacity     Float    @default(0.8)
+  logoSize        String   @default("medium")
+  watermarkUrl    String?
+  watermarkEnabled Boolean  @default(false)
+  watermarkPosition String  @default("bottom-right")
+  watermarkOpacity Float   @default(0.5)
+  primaryColor    String   @default("#3B82F6")
+  companyName     String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model ExportPreset {
+  id          Int      @id @default(autoincrement())
+  name        String
+  platform    String
+  width       Int      @default(1080)
+  height      Int      @default(1920)
+  aspectRatio String   @default("9:16")
+  fps         Int      @default(30)
+  bitrate     String   @default("high")
+  format      String   @default("mp4")
+  isDefault   Boolean  @default(false)
+  userId      Int?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model AIGenerationJob {
+  id          String   @id @default(uuid())
+  userId      Int
+  type        String
+  status      String   @default("pending")
+  progress    Int      @default(0)
+  inputData   String?
+  outputUrl   String?
+  error       String?
+  startedAt   DateTime @default(now())
+  completedAt DateTime?
+  createdAt   DateTime @default(now())
+}
+
+// ==================== CHAT SYSTEM MODELS ====================
+
+model ChatMessage {
+  id        String   @id @default(uuid())
+  sender    String   // username of sender
+  senderId  Int      // user id of sender
+  message   String
+  type      String   @default("user") // user, ai
+  createdAt DateTime @default(now())
+}
+
+model ChatUserStatus {
+  id        Int      @id @default(autoincrement())
+  userId    Int      @unique
+  username  String
+  online    Boolean  @default(false)
+  lastSeen  DateTime @default(now())
+}
+
+// ==================== VIRAL HUNTER MODELS ====================
+
+model ViralDiscovery {
+  id            String   @id @default(uuid())
+  sourceId      String   // ID from source (YouTube video ID, Reddit post ID, etc.)
+  sourcePlatform String  // youtube, reddit
+  sourceSubreddit String? // For Reddit posts
+  title         String
+  url           String?
+  viralScore    Int      @default(50)
+  status        String   @default("discovered") // discovered, downloading, downloaded, clipped, failed
+  discoveredAt  DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  
+  downloads     ViralDownload[]
+}
+
+model ViralDownload {
+  id              String   @id @default(uuid())
+  discoveryId     String?
+  discovery       ViralDiscovery? @relation(fields: [discoveryId], references: [id])
+  videoId         Int?     // Link to Video model if created
+  sourceUrl       String
+  sourcePlatform   String
+  viralScore      Int      @default(50)
+  status          String   @default("pending") // pending, downloading, downloaded, clipping, clipped, clip_failed, failed
+  filePath        String?
+  downloadedAt    DateTime?
+  clipJobId       String?
+  clipsGenerated  Int      @default(0)
+  error           String?
+  createdAt       DateTime @default(now())
+  clippedAt       DateTime?
+}

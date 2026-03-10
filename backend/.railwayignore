@@ -1,0 +1,8 @@
+node_modules
+uploads/
+downloads/
+output/
+temp/
+logs/
+*.db
+.env

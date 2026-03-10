@@ -1,0 +1,219 @@
+{"timestamp":"2026-02-21T22:45:46.695Z","level":"INFO","message":"System configuration loaded","mode":"OVERLORD PRO","environment":"development","safeMode":true,"maxConcurrentJobs":2,"cpuCores":8,"totalMemoryMB":5965}
+{"timestamp":"2026-02-21T22:55:26.457Z","level":"INFO","message":"DISTRIBUTED MODE enabled in job orchestrator"}
+{"timestamp":"2026-02-21T23:13:31.405Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":82,"concurrency":1}
+{"timestamp":"2026-02-22T03:09:48.810Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:13:04.680Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:25:40.900Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":1}
+{"timestamp":"2026-02-22T03:36:45.208Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:37:15.184Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:37:45.654Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:51:55.067Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:52:11.769Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T03:53:11.503Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T04:07:55.227Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T04:08:12.497Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":1}
+{"timestamp":"2026-02-22T04:08:27.015Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":1}
+{"timestamp":"2026-02-22T04:08:44.807Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":1}
+{"timestamp":"2026-02-22T04:09:13.345Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-22T04:16:10.624Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T04:16:46.386Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T04:16:59.186Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T04:17:18.012Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T04:18:09.126Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T04:26:00.650Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T04:26:04.666Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T04:26:19.002Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T04:26:24.765Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T04:26:54.739Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-22T04:27:11.499Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T05:23:57.655Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T05:24:14.801Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T05:24:53.177Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:26:15.151Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T05:27:59.575Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:52:07.659Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:52:15.983Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:52:35.393Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:52:57.113Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T05:53:16.676Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:53:37.067Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T05:53:47.284Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T05:54:04.931Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:14:12.898Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T07:14:24.684Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-22T07:14:36.810Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:14:45.733Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:14:58.945Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:15:07.170Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-22T07:15:47.652Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:16:41.088Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:28:19.954Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-22T07:28:30.933Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:29:23.328Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:30:41.115Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:33:15.952Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-22T07:39:42.378Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:40:31.970Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T07:41:08.559Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:42:08.414Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T07:44:10.297Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-22T08:40:46.405Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-22T09:19:47.848Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T10:58:10.714Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-23T12:08:28.489Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:08:36.373Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-23T12:08:48.943Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:09:09.159Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-23T12:09:24.517Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:10:01.790Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-23T12:10:10.928Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:10:22.052Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:10:43.913Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:10:53.592Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:11:04.304Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:11:14.130Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:11:33.710Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:11:56.898Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-23T12:12:09.434Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:12:44.313Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:14:27.226Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:35:23.876Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:37:39.800Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T12:54:14.075Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:54:19.079Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T12:54:42.772Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T13:10:51.796Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T13:11:12.726Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T13:11:40.320Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T13:12:17.114Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T13:13:17.474Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T13:45:39.716Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T22:08:20.379Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T22:08:33.493Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T22:09:03.527Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T22:09:25.744Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-23T22:09:49.824Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T22:40:28.820Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-23T22:40:35.226Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-23T22:42:43.361Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T09:49:32.410Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T10:00:06.055Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T10:11:59.137Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T10:14:37.623Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T10:15:12.609Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T10:15:45.189Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T10:50:06.701Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T10:59:54.569Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:00:25.855Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:01:06.057Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:19:51.712Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T11:20:26.177Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T11:20:40.396Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-24T11:20:46.244Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T11:22:55.668Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T11:24:06.041Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-24T11:29:39.019Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:30:03.568Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:30:28.773Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:43:10.932Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T11:43:38.368Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T11:44:11.072Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T11:55:00.355Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:55:29.484Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T11:56:07.564Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T12:03:13.428Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T12:03:19.956Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T12:03:54.240Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T12:03:57.372Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-24T12:06:14.927Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T12:16:00.168Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T12:18:55.952Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T12:55:46.770Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T12:56:17.450Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T12:56:43.379Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T13:05:26.554Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T13:05:49.464Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T13:09:53.330Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T13:34:25.879Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T13:34:56.243Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T13:35:27.243Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T13:53:31.637Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T13:53:47.256Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T13:54:57.267Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T13:55:21.253Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T14:00:17.091Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T14:00:40.378Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T14:01:08.224Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T14:44:56.790Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T14:45:29.441Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T14:46:12.541Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T14:55:08.613Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T14:55:36.921Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T14:56:05.892Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:14:48.899Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T15:17:46.821Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T15:18:51.377Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:19:09.316Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:19:35.157Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:28:58.562Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T15:31:52.181Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T15:34:36.910Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:34:58.721Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:35:24.048Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:44:13.753Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T15:48:53.894Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T15:50:28.510Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T15:53:47.025Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:54:07.053Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T15:54:34.844Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T16:01:04.211Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T16:03:52.209Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T16:04:12.060Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T16:04:43.178Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-02-24T16:12:20.932Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T16:20:43.199Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T16:21:37.908Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T16:34:32.389Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T16:49:21.479Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T16:49:27.466Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T17:10:17.072Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T17:12:21.957Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-24T17:21:44.195Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T17:27:11.073Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T20:43:40.572Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T20:44:20.187Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T20:59:07.763Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T21:02:26.887Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T21:19:07.787Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T21:22:02.158Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T21:22:59.656Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T21:31:38.483Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T21:41:53.682Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T21:42:25.312Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T21:50:49.597Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T21:51:23.208Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-24T22:09:42.747Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T22:10:21.482Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T22:13:59.234Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T22:27:01.971Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T22:27:30.950Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T22:32:01.505Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":70,"concurrency":3}
+{"timestamp":"2026-02-24T22:37:46.096Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T22:44:50.563Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T22:49:14.878Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T22:54:00.361Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T22:57:49.847Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T23:01:01.650Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T23:08:36.674Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T23:09:09.375Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":71,"concurrency":3}
+{"timestamp":"2026-02-24T23:12:41.834Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T23:12:52.988Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T23:13:15.330Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T23:13:40.093Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-02-24T23:20:51.196Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":74,"concurrency":3}
+{"timestamp":"2026-02-24T23:21:20.466Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":73,"concurrency":3}
+{"timestamp":"2026-02-24T23:21:26.113Z","level":"INFO","message":"Execution mode changed","mode":"safe","cpuLoad":0,"memoryUsage":72,"concurrency":3}
+{"timestamp":"2026-03-01T02:25:58.096Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-03-01T13:13:04.131Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-03-07T00:23:01.430Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}
+{"timestamp":"2026-03-07T13:46:08.733Z","level":"INFO","message":"[PredictionService] AI disabled, using local scoring"}

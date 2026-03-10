@@ -1,0 +1,43 @@
+{
+  "totalVideos": 0,
+  "totalClips": 16,
+  "platformCounts": {
+    "youtube": 4,
+    "tiktok": 4,
+    "instagram": 4,
+    "facebook": 4
+  },
+  "avgViralScore": 68,
+  "trendingItems": 4,
+  "aiConfidence": 68,
+  "aiStatus": "Idle",
+  "activeJob": null,
+  "processingJobs": 0,
+  "creditsUsed": 4,
+  "memoryUsage": 87.26255871165367,
+  "memoryPeak": 91.84634031510633,
+  "queueSize": 0,
+  "renderMode": "PAUSE",
+  "featureStatus": {
+    "smartCut": true,
+    "autoMusic": false,
+    "fadeEffect": false,
+    "watermark": false,
+    "subtitle": false,
+    "ecoMode": false
+  },
+  "renderCount": 1,
+  "lastUpdated": "2026-03-08T08:44:30.786Z",
+  "lastJob": {
+    "jobId": "job_1772959376830",
+    "mode": "PAUSE",
+    "memoryPeak": 91.84634031510633,
+    "platforms": [
+      "youtube",
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "timestamp": "2026-03-08T08:44:30.787Z"
+  }
+}
