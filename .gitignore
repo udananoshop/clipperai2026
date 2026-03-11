@@ -1,1 +1,9 @@
 .vercel
+node_modules
+uploads
+backend/uploads
+backend/backend/uploads
+*.mp4
+*.mov
+*.avi
+logs
