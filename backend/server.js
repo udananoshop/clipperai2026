@@ -177,8 +177,8 @@ if (fs.existsSync(dbPath)) {
 console.log("===========================================");
 
 // PATCH: Validate environment variables before server starts
-const envValidator = require('./utils/envValidator');
-envValidator.validateEnv();
+//const envValidator = require('./utils/envValidator');
+//envValidator.validateEnv();
 
 const express = require('express');
 const cors = require('cors');
