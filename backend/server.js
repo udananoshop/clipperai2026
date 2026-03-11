@@ -186,6 +186,10 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+app.listen(PORT, () => {
+  console.log("Server running on port " + PORT);
+});
+
 // Request timeout middleware (2 minutes)
 const REQUEST_TIMEOUT = 2 * 60 * 1000;
 app.use((req, res, next) => {
